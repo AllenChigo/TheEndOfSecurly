@@ -2,6 +2,7 @@
 I improved it. Got it from Here: https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/refs/heads/main/kill.js
 First go to, Jsitor.com
 And then paste the code from down below.
+
 const e = document.querySelectorAll("div.head-top, div.wonderbar");
 e.forEach(function(t) {
     t.remove()
