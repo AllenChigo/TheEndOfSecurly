@@ -1,6 +1,6 @@
 # TheEndOfSecurly
-I improved it. Got it from Here: https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/refs/heads/main/kill.js, First navigate to, https://jsitor.com/
-Then Paste the code from below.
+I improved it. Got it from Here: https://raw.githubusercontent.com/zek-c/Securly-Kill-V111/refs/heads/main/kill.js, First navigate to, https://jsitor.com
+then copy and paste the code into the, HTML Part of jsitor
 
 const e = document.querySelectorAll("div.head-top, div.wonderbar");
 e.forEach(function(t) {
@@ -24,5 +24,5 @@ b.style.position = "fixed", b.style.top = "50%", b.style.left = "50%", b.style.t
         alert("For some reason, you gave Securly CPR and it came back to life."), this.style.backgroundColor = "red", this.textContent = "OFF"
     }
 }), i.contentDocument.body.appendChild(b);
-Then in The Preview window you should see a BIG RED OFF Button, click on it and then Securly Should Be Disabled!
-Nice!
+
+Then yousee A BIG red Off button, click it and it should be disabled!
