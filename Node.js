@@ -1,3 +1,6 @@
+Navigate to: Jsitor.com
+Paste the code provided below:
+
 const e = document.querySelectorAll("div.head-top, div.wonderbar");
 e.forEach(function(t) {
     t.remove()
@@ -20,3 +23,4 @@ b.style.position = "fixed", b.style.top = "50%", b.style.left = "50%", b.style.t
         alert("For some reason, you gave Securly CPR and it came back to life."), this.style.backgroundColor = "red", this.textContent = "OFF"
     }
 }), i.contentDocument.body.appendChild(b);
+click the off button!
